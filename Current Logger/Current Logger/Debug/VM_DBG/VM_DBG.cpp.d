@@ -1,6 +1,7 @@
-C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy35\Debug\Current\ Logger.cpp.o: \
- C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy35\Debug\Current\ Logger.cpp \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/arduino.h \
+C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy35\Debug\VM_DBG\VM_DBG.cpp.o: \
+ C:\Program\ Files\ (x86)\Microsoft\ Visual\ Studio\2017\Community\Common7\IDE\Extensions\pd4xo3tv.r1p\Micro\ Platforms\default\debuggers\VM_DBG\VM_DBG.cpp \
+ C:\Program\ Files\ (x86)\Microsoft\ Visual\ Studio\2017\Community\Common7\IDE\Extensions\pd4xo3tv.r1p\Micro\ Platforms\default\debuggers\VM_DBG\VM_DBG.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/Arduino.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/WProgram.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/avr/pgmspace.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/avr/interrupt.h \
@@ -36,6 +37,4 @@ C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy35\Debug\Curren
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/WCharacter.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/elapsedMillis.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/Arduino.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/IntervalTimer.h \
- C:\Program\ Files\ (x86)\Microsoft\ Visual\ Studio\2017\Community\Common7\IDE\Extensions\pd4xo3tv.r1p\Micro\ Platforms\default\debuggers\VM_DBG/VM_DBG.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/Arduino.h
+ C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/IntervalTimer.h
