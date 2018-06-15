@@ -1,5 +1,6 @@
-C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy36\Release\Current\ Logger.cpp.o: \
- C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy36\Release\Current\ Logger.cpp \
+C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy36\Release\dataLogger.cpp.o: \
+ C:\Users\tilfr\Dropbox\DTU\Fagprojekt\FLYVENDE\ BILER!!!\Empty\ folder\Code\ECU2018\ECU2018\dataLogger.cpp \
+ C:\Users\tilfr\Dropbox\DTU\Fagprojekt\FLYVENDE\ BILER!!!\Empty\ folder\Code\ECU2018\ECU2018\dataLogger.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/arduino.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/WProgram.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/avr/pgmspace.h \
@@ -37,7 +38,6 @@ C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy36\Release\Curr
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/elapsedMillis.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/Arduino.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/IntervalTimer.h \
- C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy36\Release\dataLogger.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\SD/SD.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\SD/SD_t3.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/Arduino.h \
@@ -48,4 +48,4 @@ C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy36\Release\Curr
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\SD/utility/FatStructs.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/Print.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\SD/utility/SdFatUtil.h \
- C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy36\Release\floatQueue.h
+ C:\Users\tilfr\Dropbox\DTU\Fagprojekt\FLYVENDE\ BILER!!!\Empty\ folder\Code\ECU2018\ECU2018\floatQueue.h

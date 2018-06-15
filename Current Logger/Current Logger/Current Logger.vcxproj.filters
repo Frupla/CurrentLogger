@@ -18,8 +18,19 @@
     <ClInclude Include="__vm\.Current Logger.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\FLYVENDE BILER!!!\Empty folder\Code\ECU2018\ECU2018\dataLogger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\FLYVENDE BILER!!!\Empty folder\Code\ECU2018\ECU2018\floatQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="Current Logger.ino" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\FLYVENDE BILER!!!\Empty folder\Code\ECU2018\ECU2018\dataLogger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
