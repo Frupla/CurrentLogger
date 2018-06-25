@@ -15,9 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="__vm\.Current Logger.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\FLYVENDE BILER!!!\Empty folder\Code\ECU2018\ECU2018\dataLogger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\FLYVENDE BILER!!!\Empty folder\Code\ECU2018\ECU2018\floatQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Current Logger.ino" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="..\..\..\..\ecocar\Code\ECU2018\ECU2018\sources\dataLogger.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -35,5 +47,10 @@
     <ClInclude Include="..\..\..\..\ecocar\Code\ECU2018\ECU2018\sources\floatQueue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+=======
+    <ClCompile Include="..\..\..\FLYVENDE BILER!!!\Empty folder\Code\ECU2018\ECU2018\dataLogger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+>>>>>>> 760e210b37c5d55a11eeb18fb12b666a4f0899ac
   </ItemGroup>
 </Project>
