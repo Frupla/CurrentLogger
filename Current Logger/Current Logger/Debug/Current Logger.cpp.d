@@ -1,5 +1,5 @@
-C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy35\Debug\Current\ Logger.cpp.o: \
- C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy35\Debug\Current\ Logger.cpp \
+C:\Users\Ejer\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy35\Debug\Current\ Logger.cpp.o: \
+ C:\Users\Ejer\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy35\Debug\Current\ Logger.cpp \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/arduino.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/WProgram.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/avr/pgmspace.h \
@@ -36,16 +36,4 @@ C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy35\Debug\Curren
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/WCharacter.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/elapsedMillis.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/Arduino.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/IntervalTimer.h \
- C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy35\Debug\dataLogger.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\SD/SD.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\SD/SD_t3.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/Arduino.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\SD/utility/SdFat.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\SD/utility/Sd2Card.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\SD/utility/Sd2PinMap.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\SD/utility/SdInfo.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\SD/utility/FatStructs.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/Print.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\SD/utility/SdFatUtil.h \
- C:\Users\tilfr\AppData\Local\Temp\VMBuilds\Current\ Logger\teensy35\Debug\floatQueue.h
+ C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/IntervalTimer.h

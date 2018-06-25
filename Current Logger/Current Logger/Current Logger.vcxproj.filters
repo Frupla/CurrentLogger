@@ -17,4 +17,23 @@
   <ItemGroup>
     <None Include="Current Logger.ino" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\ecocar\Code\ECU2018\ECU2018\sources\dataLogger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\ecocar\Code\ECU2018\ECU2018\sources\floatQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="__vm\.Current Logger.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\ecocar\Code\ECU2018\ECU2018\sources\dataLogger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\ecocar\Code\ECU2018\ECU2018\sources\floatQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
